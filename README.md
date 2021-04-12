@@ -16,7 +16,7 @@
   <br/> 
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white"/>
   <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=flat-square&logo=sqlite&logoColor=white"/>
-  <img alt="FireBase"src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=flat-square&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
   <br/>
   <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=flat-square&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
