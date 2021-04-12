@@ -13,21 +13,16 @@
   <img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white"/>
   
   <h3>Web</h3>
-  <br/>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <br/> 
   
   <h3>Server</h3>
-  <br/>
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
    <img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
   <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <br/>
   
   <h3>ETC</h3>
-  <br/>
   <img src="https://img.shields.io/badge/-Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
   <img src= "https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=flat-square&logo=c&logoColor=white"/>
