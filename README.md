@@ -5,13 +5,17 @@
 ## Techs that I've used at least once
 
 <p>
+  <img alt="AndoridStudio" src="https://img.shields.io/badge/-AndroidStudio-3DDC84?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=css3&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="css3" src="https://img.shields.io/badge/-CSS3-1173B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=white" />
   <br/> 
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=swift&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=swift&logoColor=white"/></a>&nbsp 
+  <img alt="JavaScript" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=javascript&logoColor=white" />
 </p>
 
 <!--
