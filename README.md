@@ -5,7 +5,7 @@
 ## Techs that I've used at least once
 
 <p>
-  <img alt="AndoridStudio" src="https://img.shields.io/badge/-AndroidStudio-3DDC84?style=flat-square&logo=AndroidS=studio&logoColor=white" />
+  <img alt="AndoridStudio" src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=AndroidS=studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
