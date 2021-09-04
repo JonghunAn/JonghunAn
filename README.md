@@ -28,6 +28,7 @@
   
   <strong>ETC</strong>
   <br/>
+  <img src = "https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
   <img src= "https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=flat-square&logo=c&logoColor=white"/>
