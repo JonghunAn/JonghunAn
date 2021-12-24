@@ -1,6 +1,7 @@
 ### Hi I'm JongHun An👋
 
-[![Jonghun's github stats](https://github-readme-stats.vercel.app/api?username=JonghunAn&hide_title=true&show_icons=true&include_all_commits=true)](https://github.com/JonghunAn/github-readme-stats)
+[![Jonghun's github stats](https://github-readme-stats.vercel.app/api?username=JonghunAn)]
+(https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
 ## Techs that I've used at least once
