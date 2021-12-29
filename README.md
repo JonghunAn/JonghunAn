@@ -3,6 +3,13 @@
 
 <br/>
 
+## I’m currently working on ...
+</br>
+<p>숭실대학교 컴퓨터학부 (2015.03~)</p>
+<p> 모바일 앱개발 협동조합 앱개발 인턴 (2020.12~ 2020.2)</p>
+<p> 브이플레이트 백엔드 인턴 (2020.06~ 2020.08)</p>
+</br>
+
 ## Techs that I've used at least once
 
 <p>
@@ -42,10 +49,7 @@
 
 </p>
 
-## 🔭 I’m currently working on ...
-<p>숭실대학교 컴퓨터학부 (2015.03~)</p>
-<p> 모바일 앱개발 협동조합 앱개발 인턴 (2020.12~ 2020.2)</p>
-<p> 브이플레이트 백엔드 인턴 (2020.06~ 2020.08)</p>
+
 <!--
 **JonghunAn/JonghunAn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
