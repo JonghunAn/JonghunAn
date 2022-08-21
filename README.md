@@ -21,8 +21,6 @@
   <img alt="AWS" src = "https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt ="MongoDB" src = "https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
-  <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
 
   <strong>Web</strong>
   <br/>
@@ -35,9 +33,6 @@
   <br/>
   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-  <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=flat-square&logo=kotlin&logoColor=white"/>
-  <img alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white"/>
-  <img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white"/>
   
   
   <strong>ETC</strong>
@@ -45,8 +40,6 @@
   <img src="https://img.shields.io/badge/-Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
   <img src= "https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=flat-square&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
-  <img src= "https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
 
 </p>
 
