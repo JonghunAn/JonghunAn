@@ -24,8 +24,7 @@
 ## SideProject 🤼‍♀️
 
 <p> 동아리 웹사이트 외주 개발 (front, back)</p>
-[![텍스트]
- (https://www.bigdataboaz.com/static/media/main_banner.f19b2bf9b66c626dd49858e728c4ada1.svg)] (https://www.bigdataboaz.com/)
+[![텍스트](http://cfile24.uf.tistory.com/image/2444873B57E257821FA2AE)](https://unity3d.com/kr)
 
 <!-- 주요 활용 툴--->
 </br>
