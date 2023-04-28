@@ -24,7 +24,8 @@
 ## SideProject 🤼‍♀️
 
 <p> 동아리 웹사이트 외주 개발 (front, back)</p>
-[![텍스트](http://cfile24.uf.tistory.com/image/2444873B57E257821FA2AE)](https://unity3d.com/kr)
+(https://www.bigdataboaz.com/)
+<p> Mash-up (backend 13기 활동중)<p>
 
 <!-- 주요 활용 툴--->
 </br>
