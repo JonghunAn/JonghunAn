@@ -4,15 +4,11 @@
 <br/>
 
 <!-- 학력 --->
-
 ## Education 📚
-
 </br><br> 숭실대학교 컴퓨터학부 (2015.03~ 2022.02) </br>
 
 <!-- 업무기간--->
-
 ## I’m currently working on 💻
-
 </br>
 <p> <b> 닥터다이어리 백엔드 개발 (2023.04 ~ )
 <p> <b> 블록체인랩스 백엔드 개발 (2022.02 ~ 2023.04)
@@ -20,14 +16,13 @@
 <p> <b> 모바일 앱개발 협동조합 모바일개발 인턴 (2020.12 ~ 2021.02)
 
 <!-- 프로젝트 작업 -->
-
 ## SideProject 🤼‍♀️
 <p> Mash-up (backend 13기 활동중)<p>
 <p> 동아리 웹사이트 외주 개발 (front, backend) ->(https://www.bigdataboaz.com/)</p>
 <p> bulgota (android, backend) -> (https://www.youtube.com/channel/UCQOT3ekqaZiu0w12g2EMCPw)
-
-<!-- 주요 활용 툴--->
 </br>
+  
+<!-- 주요 활용 툴--->
 ## Techs that I've used at least once 🧑🏻‍💻
 <p>
   <strong>Server</strong><br/>
