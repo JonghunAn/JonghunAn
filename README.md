@@ -1,11 +1,9 @@
 ### 끊임없이 소통하는 개발자 안종훈입니다. 👋🏻
-
 [![Jonghun's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonghunAn&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue&count_private=true&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
 
 <!-- 학력 --->
 ## Education 📚
-<br> 숭실대학교 컴퓨터학부 (2015.03~ 2022.02) </br>
+숭실대학교 컴퓨터학부 (2015.03~ 2022.02) </br>
 
 <!-- 업무기간--->
 ## I’m currently working on 💻
