@@ -23,8 +23,7 @@
 
 ## SideProject 🤼‍♀️
 
-<p> 동아리 웹사이트 외주 개발 (front, back)</p>
-(https://www.bigdataboaz.com/)
+<p> 동아리 웹사이트 외주 개발 (front, back)(https://www.bigdataboaz.com/)</p>
 <p> Mash-up (backend 13기 활동중)<p>
 
 <!-- 주요 활용 툴--->
