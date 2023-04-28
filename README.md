@@ -22,9 +22,9 @@
 <!-- 프로젝트 작업 -->
 
 ## SideProject 🤼‍♀️
-
-<p> 동아리 웹사이트 외주 개발 (front, back)(https://www.bigdataboaz.com/)</p>
 <p> Mash-up (backend 13기 활동중)<p>
+<p> 동아리 웹사이트 외주 개발 (front, backend) ->(https://www.bigdataboaz.com/)</p>
+<p> bulgota (android, backend) -> (https://www.youtube.com/channel/UCQOT3ekqaZiu0w12g2EMCPw)
 
 <!-- 주요 활용 툴--->
 </br>
