@@ -1,71 +1,64 @@
-### 끊임없이 소통하는 개발자 안종훈입니다. 👋🏻
-
-<!-- 학력 --->
-## Education 📚
-<strong> 숭실대학교 컴퓨터학부 (2015.03~ 2022.02) </br>
-
-<!-- 업무기간--->
-## I’m currently working on 💻
-<p> <b> KT AI agent 개발/연구 (2025.07 ~)
-<p> <b> 버킷스토어 백엔드 개발 (2023.07 ~ 2025.03)
-<p> <b> 닥터다이어리 백엔드 개발 (2023.04 ~ 2023.06)
-<p> <b> 블록체인랩스 백엔드 개발 (2022.02 ~ 2023.04)
-<p> <b> 브이플레이트 백엔드 개발 인턴 (2021.06 ~ 2021.08)
-<p> <b> 모바일 앱개발 협동조합 모바일개발 인턴 (2020.12 ~ 2021.02)
-
-<!-- 프로젝트 작업 -->
-## SideProject 🤼‍♀️
-<p> Mash-up (Node팀 13기, 14기)<p>
-<p> 동아리 웹사이트 외주 개발 (front, backend) ->(https://www.bigdataboaz.com)</p>
-<p> bulgota (android, backend) -> (https://www.youtube.com/channel/UCQOT3ekqaZiu0w12g2EMCPw)
-</br>
-  
-<!-- 주요 활용 툴--->
-## Techs that I've used at least once 🧑🏻‍💻
-<p>
-  <strong>Server</strong><br/>
-  <img alt="Nest.js" src = "https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img alt="Node.js" src = "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img alt="FastApi" src = "https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"/>
-  <img alt="Spring" src = "https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-
-
-<strong>Database</strong> <br/>
-<img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
-<img alt ="Mysql" src = "https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img alt ="MongoDB" src = "https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img alt ="Redis" src = "https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
-<img alt ="GraphDB" src = "https://img.shields.io/badge/JanusGraph-gremlin-lightgrey"/>
-
-<strong>Others</strong> <br/>
-<img alt="AWS" src = "https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img alt ="Docker" src = "https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-<img alt ="Kubernetes" src = "https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img alt ="Jenkins" src = "https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
-<img alt ="ElasticSearch" src = "https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/>
-<img alt ="Jest" src = "https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/>
-
-<strong>Web</strong>
-<br/>
-<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=white" />
-<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img alt="css3" src="https://img.shields.io/badge/-CSS3-1173B6?style=flat-square&logo=css3&logoColor=white" />
-
-
+<p align="center">
+  <img src="https://dummyimage.com/1000x200/ffffff/282828.png&text=From+Ideas+to+Impact,+Through+Code&font-size=40" 
+       alt="From Ideas to Impact, Through Code" width="800"/>
 </p>
 
-<!--
-**JonghunAn/JonghunAn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🎓 Education
+- **숭실대학교 컴퓨터학부** (2015.03 ~ 2022.02)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💼 Experience · 🛠 Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+<h3>💻 Experience</h3>
+
+<ul>
+<li><b>KT</b> — AI Agent 연구·개발 (2025.07 ~ )</li>
+<li><b>버킷스토어</b> — Backend Developer (2023.07 ~ 2025.03)</li>
+<li><b>닥터다이어리</b> — Backend Developer (2023.04 ~ 2023.06)</li>
+<li><b>블록체인랩스</b> — Backend Developer (2022.02 ~ 2023.04)</li>
+<li><b>브이플레이트</b> — Backend Intern (2021.06 ~ 2021.08)</li>
+<li><b>모바일 앱개발 협동조합</b> — Mobile Dev Intern (2020.12 ~ 2021.02)</li>
+</ul>
+
+</td>
+<td valign="top" width="50%">
+
+<h3>🛠 Tech Stack</h3>
+
+<b>Server</b><br/>
+<img alt="Nest.js" src="https://img.shields.io/badge/Nest.js-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
+<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+
+<br/><br/>
+<b>Web</b><br/>
+<img alt="React" src="https://img.shields.io/badge/React-45b8d8?style=for-the-badge&logo=react&logoColor=white"/>
+
+<br/><br/>
+<b>Infra & Tools</b><br/>
+<img alt="Kafka" src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
+<img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🤼 Side Projects
+- **Mash-up** — Node 팀 13기, 14기 활동  
+- 🔗 [**Linkit**](https://github.com/YOUR_GITHUB_USERNAME/Linkit)  
+  → URL 기반 **AI 요약 서비스**, 긴 글을 핵심만 빠르게 전달  
+- 🃏 [**PPOBA**](https://github.com/YOUR_GITHUB_USERNAME/PPOBA)  
+  → **플레이어 주도 카드게임 샌드박스**  
+- 🌐 [BigData BOAZ](https://www.bigdataboaz.com) — 동아리 웹사이트 외주 (Front & Backend)
+
+---
