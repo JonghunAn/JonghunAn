@@ -5,60 +5,45 @@
 
 ---
 
-## 🎓 Education
-- **숭실대학교 컴퓨터학부** (2015.03 ~ 2022.02)
+## Jonghun An  
+
+<p align="center">
+  <a href="https://jonghun-an-x5h4mj4.gamma.site/" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20CV-1a73e8?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
+
+#### 📫 Connect  
+<p align="center">
+<a href="mailto:dkswhdgnsvv@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/jonghun-an-869b2a230/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-## 💼 Experience · 🛠 Tech Stack
+### *Building Scalable Systems and Intelligent Agents*
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-<h3>💻 Experience</h3>
-
-<ul>
-<li><b>KT</b> — AI Agent 연구·개발 (2025.07 ~ )</li>
-<li><b>버킷스토어</b> — Backend Developer (2023.07 ~ 2025.03)</li>
-<li><b>닥터다이어리</b> — Backend Developer (2023.04 ~ 2023.06)</li>
-<li><b>블록체인랩스</b> — Backend Developer (2022.02 ~ 2023.04)</li>
-<li><b>브이플레이트</b> — Backend Intern (2021.06 ~ 2021.08)</li>
-<li><b>모바일 앱개발 협동조합</b> — Mobile Dev Intern (2020.12 ~ 2021.02)</li>
-</ul>
-
-</td>
-<td valign="top" width="50%">
-
-<h3>🛠 Tech Stack</h3>
-
-<b>Server</b><br/>
-<img alt="Nest.js" src="https://img.shields.io/badge/Nest.js-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
-<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-
-<br/><br/>
-<b>Web</b><br/>
-<img alt="React" src="https://img.shields.io/badge/React-45b8d8?style=for-the-badge&logo=react&logoColor=white"/>
-
-<br/><br/>
-<b>Infra & Tools</b><br/>
-<img alt="Kafka" src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
-<img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
-</td>
-</tr>
-</table>
+> Turning ideas into production-level systems through code, data, and design thinking.  
+> Exploring how AI can make human workflows more efficient and intuitive.
 
 ---
 
-## 🤼 Side Projects
-- **Mash-up** — Node 팀 13기, 14기 활동  
-- 🔗 [**Linkit**](https://github.com/YOUR_GITHUB_USERNAME/Linkit)  
-  → URL 기반 **AI 요약 서비스**, 긴 글을 핵심만 빠르게 전달  
-- 🃏 [**PPOBA**](https://github.com/YOUR_GITHUB_USERNAME/PPOBA)  
-  → **플레이어 주도 카드게임 샌드박스**  
-- 🌐 [BigData BOAZ](https://www.bigdataboaz.com) — 동아리 웹사이트 외주 (Front & Backend)
+## 🚀 Highlights  
+
+- 🧩 **AI Agent Orchestration & LLM Routing** — Research & development of multi-agent architectures and intelligent orchestration systems.  
+- 🔗 <a href="https://github.com/LinkIt-Company" target="_blank"><b>Linkit</b></a> — URL 기반 **AI 요약 서비스**, 긴 글의 핵심을 빠르게 전달.  
+- 🃏 <a href="https://github.com/mash-up-kr/ppoba" target="_blank"><b>PPOBA</b></a> — **플레이어 주도 카드게임 샌드박스**, 유저가 직접 규칙을 정의하는 게임 플랫폼.  
+- 🌐 <a href="https://www.bigdataboaz.com" target="_blank"><b>BigData BOAZ</b></a> — 빅데이터 동아리 공식 웹사이트 외주 (Frontend & Backend).  
+- 💡 <a href="https://mash-up.kr" target="_blank"><b>Mash-up</b></a> — 개발자 커뮤니티 활동 (Node 팀 13·14기, 팀장), AI 기반 서비스 기획 및 개발.
+
+---
+
+## 🎓 Education  
+**Soongsil University** — B.S. in Computer Science  
+<sub>2015.03 ~ 2022.02</sub>
 
 ---
